@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MyFile</string>
+    <string name="internal_storage">internal storage</string>
+</resources>
